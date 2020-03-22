@@ -1,5 +1,5 @@
-# Web_HC_ZL_Counter_jQuery
-網頁 赫綵中壢 計數器 jQuery
+# Counter
+計數器 jQuery
 
 # 範例
 https://guitimliu.github.io/counter/index.html
